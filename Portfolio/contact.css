@@ -1,0 +1,49 @@
+body{
+    /* background-color: red; */
+    background-image: url("./cont.jpg");
+    background-repeat: no-repeat;
+    background-size:100% 590px ;
+   
+
+
+}
+
+.contact{
+    margin-left: 400px;
+    margin-top: 80px;
+    /* display: flex;
+    justify-content:center;
+    margin-top: 200px; */
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+    margin-right: 400px;
+    padding: 50px;
+    background-color:rgb(177, 177, 177);
+    border-radius: 40px;
+   
+
+}
+
+
+
+.info{
+    font-size: 20px;
+    /* color: white; */
+    position: relative;
+}
+
+
+
+
+.icon{
+    display: flex;
+    gap :20px;
+    font-size: 30px;
+
+}
+
+
+.icon :hover{
+   color: white ;
+  
+}
+
